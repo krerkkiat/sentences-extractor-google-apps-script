@@ -1,7 +1,7 @@
 # sentences-extractor-google-apps-script
 This is a [Google Apps Script](https://developers.google.com/apps-script/) that is capable of extracting sentences in [Google Docs](https://www.google.com/docs/about/) to a new Google Docs document.
 
-This could facilitate [proof reading](http://linguistics.ohio.edu/ELIP/?page_id=1266) of the essay.
+This could facilitate [proofreading](http://linguistics.ohio.edu/ELIP/?page_id=1266) of the essay.
 
 To use this plugins; since it is not on the Google Chrome Web Store yet, so you need to manually install to the document.
 
